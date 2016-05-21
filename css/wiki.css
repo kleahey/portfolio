@@ -1,0 +1,41 @@
+body {
+  background-color: #0D3268;
+  font-family: 'Palanquin', sans-serif;
+}
+
+#searchIcon {
+  color: white;
+}
+
+label {
+  color: white;
+}
+
+#searchBox {
+  margin-top: 20px;
+}
+
+#link {
+  color: white;
+}
+
+a {
+  color: white;
+}
+
+.entry {
+	border: 2px solid #E6E7E8;
+	border-radius: 0px;
+	background: #F59A2C;
+	color: #E6E7E8;
+	box-shadow: 0 0 6px 2px rgba(0,0,0,.12);
+	margin: 24px 0;
+	padding: 16px;
+}
+.title {
+	font-weight: bold;
+	font-size: 28px;
+}
+.snippet {
+	font-size: 18px;
+}
